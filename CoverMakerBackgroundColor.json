@@ -1,5 +1,4 @@
 {
-        "高级不灰": "linear-gradient(to right, #494c46 0%, #9a9789 50%)",
         "星空蓝": "linear-gradient(to right, #0d247c 0%, #3f5ecc 50%)",
         "紫罗兰": "linear-gradient(to right, #5b237c 0%, #ca79ff 50%)",
         "玫瑰红": "linear-gradient(to right, #b6292f 0%, #e15f65 50%)",
@@ -10,6 +9,7 @@
         "墨蓝色": "linear-gradient(to right, #16278b 0%, #475ac4 50%)",
         "陶土色": "linear-gradient(to right, #584e49 0%, #c4b1aa 50%)",
         "琥珀色": "linear-gradient(to right, #785720 0%, #f2c373 50%)",
+        "高级灰": "linear-gradient(to right, #494c46 0%, #9a9789 50%)",
         "紫罗兰暮光": "linear-gradient(to right, #8A2BE2 0%, #FF69B4 50%)",
         "碧海蓝天": "linear-gradient(to right, #00B4D8 0%, #0077B6 50%)",
         "秋叶余烬": "linear-gradient(to right, #FF6B6B 0%, #FF8E53 50%)",
